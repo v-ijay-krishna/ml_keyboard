@@ -1,0 +1,5 @@
+Label,Pitch,Note_Name,Start_s,Start_beat,Duration_s,Duration_beat,Velocity
+surya_7,64,E4,0.9219,1.2292,0.5234,0.6979,111
+surya_7,71,B4,1.3906,1.8542,0.3984,0.5312,108
+surya_7,69,A4,1.6719,2.2292,0.3594,0.4792,117
+surya_7,69,A4,2.1719,2.8958,0.0859,0.1146,57
